@@ -1,4 +1,4 @@
-# 👋 A Bit About Me
+# Saman Ali Ahmed
 🎓 Bachelor’s in Computer Science<br><br>🤖 Focused on Artificial Intelligence & Machine Learning<br><br>📚 Relevant coursework: Applied Machine Learning, Deep Learning, Natural Language Processing<br><br>💡 Strong interest in building intelligent, data-driven systems that solve real-world problems<br><br>🔗 Work lies at the intersection of machine learning, deep learning, and full-stack development<br><br>🚀 Passionate about turning ideas and research into practical, scalable applications
 
 # 💻 Tech Stack:
